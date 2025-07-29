@@ -1,10 +1,10 @@
-# 🌸 Femboy Harem
+# 🌸 Femboy Hub
 **A learning hub and resource portal for femboys and anyone exploring femininity.**  
-Welcome to the GitHub home of [FemboyHarem.com](https://femboyharem.com) — a growing platform dedicated to education, empowerment, and community. Whether you're a femboy, questioning, or just interested in embracing femininity, this site is designed to support you with accessible, thoughtful resources.
+Welcome to the GitHub home of [FemboyHub.app](https://femboyhub.app) — a growing platform dedicated to education, empowerment, and community. Whether you're a femboy, questioning, or just interested in embracing femininity, this site is designed to support you with accessible, thoughtful resources.
 
 ---
 ## 📚 What We Offer
-Femboy Harem features curated, beginner-friendly content across a variety of topics, including:
+Femboy Hub features curated, beginner-friendly content across a variety of topics, including:
 - **Fashion & Style**  
   Outfit guides, style inspiration, and confidence-boosting tips for every body and budget.
 
@@ -36,9 +36,9 @@ This GitHub organization exists primarily to:
 
 - Maintain the site's backend and internal tools
 - Track bugs, features, and infrastructure tasks
-- Coordinate development of Femboy Harem's platform (not content)
+- Coordinate development of Femboy Hub's platform (not content)
 
-Please note: **Femboy Harem is not an open-source project**, and community contributions are not handled through GitHub at this time.
+Please note: **Femboy Hub is not an open-source project**, and community contributions are not handled through GitHub at this time.
 
 ---
 
@@ -46,8 +46,8 @@ Please note: **Femboy Harem is not an open-source project**, and community contr
 
 If you'd like to submit a guide or suggest a correction:
 
-- Use the built-in **guide submission form** on [femboyharem.com](https://femboyharem.com) *(coming soon)*  
-- Or send your idea directly to us at **[contact@femboyharem.com](mailto:contact@femboyharem.com)**
+- Use the built-in **guide submission form** on [femboyhub.app](https://femboyhub.app) *(coming soon)*  
+- Or send your idea directly to us at **[contact@femboyhub.app](mailto:contact@femboyhub.app)**
 
 We welcome thoughtful, well-written contributions that are inclusive, safe, and affirming.
 
